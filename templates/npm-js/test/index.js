@@ -1,4 +1,4 @@
-const lib = require('./../index');
+const lib = require('../index');
 
 const expect = require('chai').expect;
 
