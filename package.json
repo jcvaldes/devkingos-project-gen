@@ -1,0 +1,27 @@
+{
+  "name": "devkingos-project-gen",
+  "version": "1.0.0",
+  "description": "Project Generator CLI",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcvaldes/devkingos-project-gen.git"
+  },
+  "author": "Juan Carlos Valdes <idevkingos@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcvaldes/devkingos-project-gen/issues"
+  },
+  "homepage": "https://github.com/jcvaldes/devkingos-project-gen#readme",
+  "dependencies": {
+    "chalk": "4.1.0",
+    "ejs": "3.1.5",
+    "inquirer": "7.3.3",
+    "shelljs": "0.8.4"
+  },
+  "bin": {
+    "devkingos-project-gen": "./index.js"
+  }
+}
